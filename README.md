@@ -32,22 +32,28 @@ Hey there! I'm Muhammad hassan baig
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad hassan baig&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad hassan baig&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad hassan baig&theme=tokyo-night"/>
+</p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammad hassan baig&theme=tokyonight"/>
 </p>
 
 ---
@@ -55,7 +61,7 @@ Hey there! I'm Muhammad hassan baig
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Muhammad hassan baig/Muhammad hassan baig/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
