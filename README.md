@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muzammil%20Javed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hassan%20Baig&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
-Hey there! I'm Muzammil
+Hey there! I'm Muhammad hassan baig
 </h3>
 
 <p align="center">
