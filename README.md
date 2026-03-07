@@ -1,152 +1,62 @@
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
-  <h1 align="center">Hi 👋, I'm Muhammad Hassan Baig</h1>
-
-
-
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Modern+Web+App+Developer;Frontend+Learner+from+Pakistan" alt="Typing SVG" />
-  </a>
-
-
+# <p align="center">MUHAMMAD HASSAN BAIG</p>
+<p align="center">
+  <strong>Frontend Web Developer | Aspiring Software Engineer</strong>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassanmhb&label=Profile%20views&color=0e75b6&style=flat" alt="Hassanmhb" />
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I am a passionate Web Developer and student, currently learning modern web technologies.  
-I enjoy building clean and user-friendly websites and aim to become a skilled software engineer.
+### 🚀 About Me
+I am a dedicated **Frontend Web Developer** and final-year DAE student. Currently, I am mastering **Modern Web App Development** at Saylani Mass IT Training (SMIT). I specialize in creating clean, responsive, and interactive user interfaces with a focus on professional UI/UX design.
+
+- 🔭 Currently working on **Full-Stack integration** using Firebase.
+- ⚡ Focus: **Clean Code**, **Interactive Animations**, and **Modern UI**.
+- 🎓 Completed Matriculation in 2023.
 
 ---
 
-## 🔭 Currently Working On
-- Currently learning **Modern Web Application Development**  
-- Building projects using **HTML, CSS, and JavaScript**
+### 🛠️ Professional Skills
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css" width="48" alt="HTML/CSS" /><br />
+      HTML5 & CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js,react" width="48" alt="JS/React" /><br />
+      JS (ES6+) & React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" width="48" alt="UI Frameworks" /><br />
+      Tailwind & Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase,git" width="48" alt="Tools" /><br />
+      Firebase & Git
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### 📂 Featured Projects
+* **Furniro E-commerce** – A premium furniture store layout focused on minimalist and responsive design.
+* **Positivus Clone** – A marketing agency layout mastering complex CSS techniques.
+* **Real-time Digital Clock** – Built using JavaScript Date objects and dynamic DOM updates.
+* **JS Calculator** – A functional calculator focusing on UI logic and smooth calculations.
 
 ---
 
-## 📊 GitHub Stats
+### 📜 Certifications
+* **HTML & CSS Essentials** – Cisco Networking Academy
+* **Certificate in IT (CIT)** – Korean Computer Academy
+* **Business Email Writing** – HP
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassanmhb&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanmhb&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hassanmhb&theme=onedark" />
-</p>
-
----
-
-
-
-
-## 🚀 Projects
-
-### 🌐 Adams Portfolio  
-🔗 https://hassanmhb.github.io/My-Portfolio-Website/  
-A **responsive personal portfolio website** built using **HTML, CSS, to showcase my skills and projects.  
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 🧩 Grid Layout Project  
-🔗 https://hassanmhb.github.io/grid-layout/  
-A **modern layout project** created using **HTML & CSS Grid**, focusing on clean structure and responsive design.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-### 🛒 E-commerce Website (Hackathon Project)  
-🔗 https://hassanmhb.github.io/Ecommerce_Website/  
-A **Hackathon-based e-commerce website** built using **HTML, CSS, and JavaScript** with product listing and interactive UI.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 📄 Landing Page  
-🔗 https://hassanmhb.github.io/New-Landing-Page/  
-A **clean and modern landing page** designed with **HTML, CSS, and JavaScript**, optimized for responsiveness.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-### ⏰ Digital Clock   
-🔗 https://hassanmhb.github.io/Digital-Clock/  
-A **real-time digital clock** created using **HTMl, CSS, JavaScript**, displaying live time updates dynamically.
-
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-> *(More projects coming soon 🚧)*
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-hassan-baig-0789b7396/" target="_blank">LinkedIn</a> | 
-  <a href="mailto:hasnainhanifhasnainhanif4@gmail.com">Email</a> | 
-  <a href="https://github.com/Hassanmhb" target="_blank">GitHub</a>
-</p>
-
----
-
-## 💖 Support My Work
-If you like my work, you can support me by:  
-⭐ Giving a star to my repositories  
-🔗 Sharing my projects with your network  
-💬 Feedback & suggestions are always welcome!
-
----
-
-## 💡 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.”
-
----
-
-## 😂 Joke of the Day
-> Why do programmers prefer dark mode?  
-> Because light attracts bugs! 🐛
-
----
-
-## 🎁 Special Gift
-Thank you for visiting my profile! 💝  
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
