@@ -43,13 +43,10 @@ Hey there! I'm Muhammad hassan baig
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
+### 📊 My GitHub Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad hassan baig&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanmhb&theme=react-dark&area=true&hide_border=true" width="100%" alt="Hassan's Activity Graph" />
 </p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
