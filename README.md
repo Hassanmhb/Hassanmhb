@@ -4,10 +4,10 @@
 
   <br />
 
-  <h2>Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> I'm Hassan</h2>
+  <h2>Hey there! <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/hand-wave.gif" width="35" /> I'm Hassan</h2>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Aspiring+Software+Engineer;Modern+Web+App+Developer;Clean+Code+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Frontend+Web+Developer;💻+Aspiring+Software+Engineer;🚀+Modern+Web+App+Developer" alt="Typing SVG" />
   </a>
 
   <br />
