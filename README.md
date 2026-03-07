@@ -1,47 +1,85 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:8a2be2&height=200&section=header&text=HASSAN%20BAIG&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muzammil%20Javed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey there! I'm hassan
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
+Hey there! I'm Muzammil
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Engineer;Frontend+Developer;Open+Source+Contributor;Tech+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;HTML+CSS+JavaScript+Developer;Firebase+%26+Vercel+User;Building+Modern+Web+Apps"/>
 </p>
 
 ---
 
-### ✨ Hand Gesture
+# 🧠 About Me
+
+💻 Frontend Developer
+⚡ I build modern responsive websites
+🚀 Passionate about web technologies
+🌱 Currently improving JavaScript skills
+
+---
+
+# 🌈 3D Tech Stack
 
 <p align="center">
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00BFFF&center=true&vCenter=true&width=400&lines=Hand+Gesture;Frontend+Developer;Machine+Learning+Explorer" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,firebase,git,github,vercel,vscode"/>
+
 </p>
 
 ---
 
-### 🔗 Connect With Me
+# 📊 GitHub Stats
 
 <p align="center">
 
-<a href="https://gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github"/>
+<a href="https://vercel.com/">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://firebase.google.com/">
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox"/>
-</a>
+</p>
 
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
