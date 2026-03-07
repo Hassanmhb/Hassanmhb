@@ -7,7 +7,7 @@
   <h2>Hey there! <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/hand-wave.gif" width="35" /> I'm Hassan</h2>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Aspiring+Software+Engineer;Modern+Web+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Frontend+Web+Developer;%F0%9F%92%BB+Aspiring+Software+Engineer;%F0%9F%9A%80+Modern+Web+App+Developer" alt="Typing SVG" />
   </a>
 
   <br />
