@@ -1,10 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=MUZAMMIL+JAVED" />
-</h1>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:8a2be2&height=200&section=header&text=MUZAMMIL%20JAVED&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey there! I'm Muzammil
+  Hey there! I'm hassan
 </h3>
 
 <p align="center">
