@@ -4,7 +4,7 @@
 
   <br />
 
-  <h2>Hey there! <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/hand-wave.gif" width="35" /> I'm Hassan</h2>
+  <h2>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="35" /> I'm Hassan</h2>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Frontend+Web+Developer;💻+Aspiring+Software+Engineer;🚀+Modern+Web+App+Developer" alt="Typing SVG" />
@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated **Frontend Web Developer** and an aspiring **Software Engineer**. Currently, I am mastering **Modern Web App Development** at **Saylani Mass IT Training (SMIT)**. I specialize in creating clean, responsive, and interactive user interfaces with a focus on professional **UI/UX design**.
+I am a dedicated **Frontend Web Developer** and an aspiring **Software Engineer**. Currently, I am a student in the **Modern Web App Development** program at **Saylani Mass IT Training (SMIT)**. I specialize in creating clean, responsive, and interactive user interfaces with a focus on professional **UI/UX design**.
 
 - 🔭 Currently working on **Full-Stack integration** using **Firebase**.
 - ⚡ Focus: **Clean Code**, **Interactive Animations**, and **Modern UI**.
