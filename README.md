@@ -22,7 +22,7 @@ Hey there! I'm Muhammad hassan baig
 
 ---
 
-# 🌈 3D Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -32,15 +32,26 @@ Hey there! I'm Muhammad hassan baig
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<p align="center">
+### 🌐 Portfolio Website
+🔗 [Portfolio Link](https://your-portfolio-link.vercel.app)  
+Modern responsive portfolio built with **HTML, CSS, JavaScript**.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad hassan baig&show_icons=true&theme=tokyonight"/>
+### 📝 Todo App
+🔗 [Todo App Link](https://todo-app.vercel.app)  
+Task management app using **JavaScript & Local Storage**.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad hassan baig&layout=compact&theme=tokyonight"/>
+### 🔐 Firebase Auth App
+🔗 [Firebase Auth Link](https://firebase-auth.vercel.app)  
+Login & Signup system using **Firebase Authentication**.
 
-</p>
+### 🎨 Bootstrap Landing Page
+🔗 [Landing Page Link](https://landingpage.vercel.app)  
+Responsive landing page built with **Bootstrap**.
+
+---
+
 
 ---
 ### 📊 My GitHub Activity Graph
@@ -67,21 +78,20 @@ Hey there! I'm Muhammad hassan baig
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://vercel.com/">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://firebase.google.com/">
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&text=Made+by+Muhammad+Hassan+Baig&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 </p>
