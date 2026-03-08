@@ -1,7 +1,6 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hassan%20Baig&fontSize=45&fontColor=#75cfff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Muhammad%20Hassan%20Baig&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=60" width="100%" alt="Modern Glass Header Full Name" />
+</div>
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
 Hey there! I'm Muhammad hassan baig
@@ -33,24 +32,28 @@ I am currently expanding my technical horizon by learning backend development to
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website
-🔗 [Portfolio Link](https://your-portfolio-link.vercel.app)  
-Modern responsive portfolio built with **HTML, CSS, JavaScript**.
+### 🌐 Digital Clock
+🔗 [Digital Clock Link](https://hassanmhb.github.io/Digital-Clock/) 
+A high-end digital interface built to practice real-time data handling and bold neon aesthetics.
 
 ### 📝 Todo App
 🔗 [Todo App Link](https://todo-app.vercel.app)  
 Task management app using **JavaScript & Local Storage**.
 
-### 🔐 Firebase Auth App
-🔗 [Firebase Auth Link](https://firebase-auth.vercel.app)  
-Login & Signup system using **Firebase Authentication**.
+### 🔐 Calculater
+🔗 [Calculater Link](https://hassanmhb.github.io/Digital-Clock/)
+I built this Smart Calculator to blend complex logic with a clean, intuitive design. It reflects my passion for solving logical puzzles through high-precision JavaScript and a seamless, responsive UI experience.
 
-### 🎨 Bootstrap Landing Page
-🔗 [Landing Page Link](https://landingpage.vercel.app)  
-Responsive landing page built with **Bootstrap**.
 
+
+
+
+### 🎨 Positivus Landing Page
+🔗 [Positivus Landing Page Link](https://hassanmhb.github.io/New-Landing-Page/)  
+Responsive landing page built with CSS Grid
+Flexbox
+Clean agency layout assignment from SMIT to master complex CSS techniques and pixel-perfect development.
 ---
-
 
 ---
 ### 📊 My GitHub Activity Graph
@@ -92,5 +95,5 @@ Responsive landing page built with **Bootstrap**.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&text=Made+by+Muhammad+Hassan+Baig&fontSize=20&fontColor=#75cfff8&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer&text=Made%20by%20Muhammad%20Hassan%20Baig&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Modern Glass Footer" />
 </p>
