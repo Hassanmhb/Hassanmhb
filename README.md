@@ -40,7 +40,7 @@ A high-end digital interface built to practice real-time data handling and bold 
 🔗 [Todo App Link](https://todo-app.vercel.app)  
 Task management app using **JavaScript & Local Storage**.
 
-### 🔐 Calculater
+### 📐 Calculater
 🔗 [Calculater Link](https://hassanmhb.github.io/Digital-Clock/)
 I built this Smart Calculator to blend complex logic with a clean, intuitive design. It reflects my passion for solving logical puzzles through high-precision JavaScript and a seamless, responsive UI experience.
 
@@ -53,7 +53,7 @@ I built this Smart Calculator to blend complex logic with a clean, intuitive des
 Responsive landing page built with CSS Grid
 Flexbox
 Clean agency layout assignment from SMIT to master complex CSS techniques and pixel-perfect development.
----
+
 
 ---
 ### 📊 My GitHub Activity Graph
