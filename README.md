@@ -68,7 +68,7 @@ Responsive landing page built with **Bootstrap**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Muhammad hassan baig/Muhammad hassan baig/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
