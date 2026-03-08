@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hassan%20Baig&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hassan%20Baig&fontSize=45&fontColor=#75cfff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">
@@ -15,10 +15,9 @@ Hey there! I'm Muhammad hassan baig
 
 # 🧠 About Me
 
-💻 Frontend Developer
-⚡ I build modern responsive websites
-🚀 Passionate about web technologies
-🌱 Currently improving JavaScript skills
+I am a dedicated Frontend Developer with a passion for building clean, scalable, and user-centric web applications. My expertise lies in crafting seamless digital experiences using modern frontend technologies.
+
+I am currently expanding my technical horizon by learning backend development to become a proficient Full-Stack Engineer. I thrive on solving complex problems and continuously improving my coding standards.
 
 ---
 
@@ -93,5 +92,5 @@ Responsive landing page built with **Bootstrap**.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&text=Made+by+Muhammad+Hassan+Baig&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&text=Made+by+Muhammad+Hassan+Baig&fontSize=20&fontColor=#75cfff8&animation=fadeIn"/>
 </p>
